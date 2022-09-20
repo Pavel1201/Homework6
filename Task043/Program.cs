@@ -14,19 +14,22 @@ Console.WriteLine($"Вы ввели прямые: ");
 Console.WriteLine($"{coefficientk1}x + {coefficientb1} ");
 Console.WriteLine($"{coefficientk2}x + {coefficientb2} ");
 
-
-if (coefficientk1 == coefficientk2 && coefficientb1 == coefficientb2)
+void crossingStraightLines(double k1, double b1, double k2, double b2)
+{
+if (k1 == k2 && b1 == b2)
 {
     Console.WriteLine("Прямые совпадают");
 }
-else if (coefficientk1 == coefficientk2 && coefficientb1!=coefficientb2)
+else if (k1 == k2 && b1!=b2)
 {
     Console.WriteLine("Прямые параллельны");
 }
 else
 {
-    x = (coefficientb2 - coefficientb1)/(coefficientk1 - coefficientk2);
-    y = coefficientk1*x + coefficientb1;
+    x = (b2 - b1)/(k1 - k2);
+    y = k1*x + b1;
     Console.WriteLine($" Точка пересечения ({x},{y})");
 }
+}
 
+crossingStraightLines(coefficientk1, coefficientb1, coefficientk2, coefficientb2);
