@@ -1,0 +1,15 @@
+C:\Users\Павел\Desktop\Homework6\Task043\obj\Debug\net6.0\Task043.csproj.AssemblyReference.cache
+C:\Users\Павел\Desktop\Homework6\Task043\obj\Debug\net6.0\Task043.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\Desktop\Homework6\Task043\obj\Debug\net6.0\Task043.AssemblyInfoInputs.cache
+C:\Users\Павел\Desktop\Homework6\Task043\obj\Debug\net6.0\Task043.AssemblyInfo.cs
+C:\Users\Павел\Desktop\Homework6\Task043\obj\Debug\net6.0\Task043.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\Homework6\Task043\bin\Debug\net6.0\Task043.exe
+C:\Users\Павел\Desktop\Homework6\Task043\bin\Debug\net6.0\Task043.deps.json
+C:\Users\Павел\Desktop\Homework6\Task043\bin\Debug\net6.0\Task043.runtimeconfig.json
+C:\Users\Павел\Desktop\Homework6\Task043\bin\Debug\net6.0\Task043.dll
+C:\Users\Павел\Desktop\Homework6\Task043\bin\Debug\net6.0\Task043.pdb
+C:\Users\Павел\Desktop\Homework6\Task043\obj\Debug\net6.0\Task043.dll
+C:\Users\Павел\Desktop\Homework6\Task043\obj\Debug\net6.0\refint\Task043.dll
+C:\Users\Павел\Desktop\Homework6\Task043\obj\Debug\net6.0\Task043.pdb
+C:\Users\Павел\Desktop\Homework6\Task043\obj\Debug\net6.0\Task043.genruntimeconfig.cache
+C:\Users\Павел\Desktop\Homework6\Task043\obj\Debug\net6.0\ref\Task043.dll
